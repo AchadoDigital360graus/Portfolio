@@ -1,6 +1,6 @@
 {
  "display": "fullscreen",
- "name": "PORTFOILIO",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -38,7 +38,8 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
+ "start_url": "index.htm",
  "theme_color": "#FFFFFF",
- "start_url": "index.htm"
+ "name": "ACHADO DIGITAL 360º",
+ "description": "PORTFÓLIO"
 }
