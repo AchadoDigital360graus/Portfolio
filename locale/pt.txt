@@ -5,30 +5,42 @@
 ### URL
 LinkBehaviour_03F6E525_21CD_CDB4_41B0_4D1E0B6E40B4.source = https://achadodigital.com.br/pagina-exemplo/
 PopupWebFrameBehaviour_3395ABE7_20C5_C4B3_41AD_1EAB0BDA9FC4.url = https://achadodigital360graus.github.io/FamilyRestaurantPiracicaba/
-PopupWebFrameBehaviour_31D56E03_26BA_3A80_4199_734F18195C95.url = https://achadodigital360graus.github.io/FamilyRestaurantPiracicaba/
+PopupWebFrameBehaviour_2DCCD088_319F_E576_4196_2B51CF242758.url = https://achadodigital360graus.github.io/FamilyRestaurantPiracicaba/
 PopupWebFrameBehaviour_0F127DB7_138B_6931_41A0_2F263E2E06CF.url = https://achadodigital360graus.github.io/FamilyRestaurantPiracicaba/
-PopupWebFrameBehaviour_3EE105D9_26BE_C980_41BF_4614D49EDFE7.url = https://achadodigital360graus.github.io/FamilyRestaurantPiracicaba/
-PopupWebFrameBehaviour_3E532FBD_269E_3980_4196_1093E1FE8D97.url = https://achadodigital360graus.github.io/FrutaGurtNatal/
 PopupWebFrameBehaviour_0E3D6043_138F_3751_4162_C4A8C9CB546C.url = https://achadodigital360graus.github.io/FrutaGurtNatal/
+PopupWebFrameBehaviour_2DB01636_3181_AD9A_41C3_DB343F0D0915.url = https://achadodigital360graus.github.io/FrutaGurtNatal/
 PopupWebFrameBehaviour_33944BE3_20C5_C4B3_41B3_DBF215091C4D.url = https://achadodigital360graus.github.io/FrutaGurtNatal/
-PopupWebFrameBehaviour_3E251CA5_269A_5F80_41A4_C8C70EB1F772.url = https://achadodigital360graus.github.io/FrutaGurtNatal/
 PopupWebFrameBehaviour_0F9AD407_1397_7ED1_41AD_1EFD9EAEAFCF.url = https://achadodigital360graus.github.io/HotelShangri-laBrotas/
+PopupWebFrameBehaviour_15EDB138_318E_A796_41B9_86F0EE41052A.url = https://achadodigital360graus.github.io/HotelShangri-laBrotas/
 PopupWebFrameBehaviour_33954BEA_20C5_C4BD_41BB_953BE16E6AE4.url = https://achadodigital360graus.github.io/HotelShangri-laBrotas/
-PopupWebFrameBehaviour_3395BBF1_20C5_C4AF_419E_B10A59E0CF9A.url = https://achadodigital360graus.github.io/LucianaVilhenaDepilacaoHaraBeleza/
+PopupWebFrameBehaviour_1586B694_318F_EA9E_41C0_5680C4590E6C.url = https://achadodigital360graus.github.io/HotelShangri-laBrotas/
 PopupWebFrameBehaviour_32CB9190_138D_19CF_41AB_F8AF960D09C7.url = https://achadodigital360graus.github.io/LucianaVilhenaDepilacaoHaraBeleza/
-PopupWebFrameBehaviour_3188B23E_269A_4A80_41BF_E3987596C9FF.url = https://achadodigital360graus.github.io/PerdonattiBarbearia/
-PopupWebFrameBehaviour_302C7733_269B_CA80_4177_9A26D544D835.url = https://achadodigital360graus.github.io/PerdonattiBarbearia/
+PopupWebFrameBehaviour_2C83681D_3187_A58E_41C1_B245FB7DADB3.url = https://achadodigital360graus.github.io/LucianaVilhenaDepilacaoHaraBeleza/
+PopupWebFrameBehaviour_3395BBF1_20C5_C4AF_419E_B10A59E0CF9A.url = https://achadodigital360graus.github.io/LucianaVilhenaDepilacaoHaraBeleza/
+PopupWebFrameBehaviour_2F5E38BC_3181_A68E_41BB_51EEAD99A9C4.url = https://achadodigital360graus.github.io/PerdonattiBarbearia/
 PopupWebFrameBehaviour_0FEB2DF8_1395_293F_415E_8BA424674D10.url = https://achadodigital360graus.github.io/PerdonattiBarbearia/
 PopupWebFrameBehaviour_3392BBED_20C5_C4B7_41BF_BE389A5727CD.url = https://achadodigital360graus.github.io/PerdonattiBarbearia/
+PopupWebFrameBehaviour_2DA2FA87_3187_A57A_41A5_A00F2A91B641.url = https://achadodigital360graus.github.io/PerdonattiBarbearia/
+PopupWebFrameBehaviour_3188B23E_269A_4A80_41BF_E3987596C9FF.url = https://achadodigital360graus.github.io/PerdonattiBarbearia/
 PopupWebFrameBehaviour_0E5D8152_1375_1973_41A6_F8A0E20FF207.url = https://achadodigital360graus.github.io/iGUiPiscinasPiracicaba/
-PopupWebFrameBehaviour_3599BE28_2686_3A80_41A6_BA522D8FD037.url = https://achadodigital360graus.github.io/iGUiPiscinasPiracicaba/
+PopupWebFrameBehaviour_2C891389_3183_AB76_41B2_ECDEE28D077D.url = https://achadodigital360graus.github.io/iGUiPiscinasPiracicaba/
+PopupWebFrameBehaviour_2F55FE46_3183_9DFA_41B0_89548F61E6D3.url = https://achadodigital360graus.github.io/iGUiPiscinasPiracicaba/
 PopupWebFrameBehaviour_3394CBDF_20C5_C493_41BF_4D951842F717.url = https://achadodigital360graus.github.io/iGUiPiscinasPiracicaba/
+PopupWebFrameBehaviour_2F28A103_3181_A77A_41C2_F270E8B578E6.url = https://acipi.com.br/
 LinkBehaviour_248F2B59_129C_E971_41B0_76E3B71809BA.source = https://api.whatsapp.com/send?phone=&text=%20https://achadodigital360graus.github.io/Portfolio/%20
 LinkBehaviour_33AFBC65_20C5_C3B7_4193_9303305BC127.source = https://api.whatsapp.com/send?phone=&text=%20https://achadodigital360graus.github.io/Portfolio/%20
-LinkBehaviour_2BEC7247_128F_1B51_41B1_B18C29DDAE08.source = https://api.whatsapp.com/send?phone=5519997883571&text=Ol%C3%A1.%20gostaria%20de%20informações%20do%20Tour%20Personalizado%20360º%20
 LinkBehaviour_33AFAC61_20C5_C3AF_41B0_20838060D949.source = https://api.whatsapp.com/send?phone=5519997883571&text=Ol%C3%A1.%20gostaria%20de%20informações%20do%20Tour%20Personalizado%20360º%20
+LinkBehaviour_2BEC7247_128F_1B51_41B1_B18C29DDAE08.source = https://api.whatsapp.com/send?phone=5519997883571&text=Ol%C3%A1.%20gostaria%20de%20informações%20do%20Tour%20Personalizado%20360º%20
+PopupWebFrameBehaviour_2CDE67AA_3181_EA8A_41C4_1D322B2FEA68.url = https://pecege.com/
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+PopupWebFrameBehaviour_108ABC99_3182_BE96_41B5_17297B6C37F8.url = https://www.grupoterraeventos.com.br/palacetemontealegre/?gad_source=1&gclid=Cj0KCQiA67CrBhC1ARIsACKAa8RsH3PDH4-E6rh9w3kOdOcIsp251R2dFK7ePxHiJYa5NCruOOKv1oUaAkolEALw_wcB
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_126F43ED_31BE_AA8E_41B9_DDE2090B95C1.text = BROTAS
+HotspotPanoramaOverlayTextImage_15DA63D7_318E_EA9A_41B8_8AC3F77ECCEC.text = PIRACICABA
 
 ## Media
 
@@ -38,20 +50,26 @@ WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.co
 audiores_291E8585_0FB7_DBF0_41A0_9486F7889563.mp3Url = media/audio_2E4D2D3A_0FB4_CB10_4194_89ED59B94D6E_pt.mp3
 audiores_295EA794_0FB7_C711_41A3_758B05C1C726.mp3Url = media/audio_2FCCD6E6_0FB4_D930_4192_3411162C3D2B_pt.mp3
 
+### Image
+imlevel_186ED604_3183_ED7E_41B4_6122CB16BD98.url = media/panorama_135A778D_3186_AA8E_41A8_F5A5CDD3A9C9_HS_93ebfk7b_pt.png
+imlevel_186F65D0_3183_EE96_41C4_EFCEECA5C06F.url = media/panorama_1B306AB1_0C95_C910_419F_E3C23FE48B83_HS_wg6iyywv_pt.png
+
 ### Title
+panorama_108B8F5C_3186_BB8E_41C6_365951CE40C2.label = AÉREA 360° SHANGRI-LÁ CENTRAL
+panorama_135A778D_3186_AA8E_41A8_F5A5CDD3A9C9.label = AÉREA 360° SHANGRII-LÁ  GERAL
 panorama_1B306AB1_0C95_C910_419F_E3C23FE48B83.label = Aére Santa Pizza (4)
 media_146032E0_0F8D_D930_4178_D1E442619C00.label = Logo 3D Achado Digital
 video_0FD67509_139C_FED1_41AE_F67E2E99519C.label = Video Comercial ACHADO DIGITAL 360º
 
 ### Video
-videores_396E5FA4_2C90_9B37_41C0_5592B193274D.posterURL = media/media_146032E0_0F8D_D930_4178_D1E442619C00_poster_pt.jpg
-videores_396F8FA6_2C90_9B33_4173_87CCA994E349.posterURL = media/media_146032E0_0F8D_D930_4178_D1E442619C00_poster_pt.jpg
-videores_396E5FA4_2C90_9B37_41C0_5592B193274D.url = media/media_146032E0_0F8D_D930_4178_D1E442619C00_pt.m3u8
-videores_396F8FA6_2C90_9B33_4173_87CCA994E349.url = media/media_146032E0_0F8D_D930_4178_D1E442619C00_pt.mp4
-videolevel_397850A1_2C90_8531_41BF_15948E004BA1.posterURL = media/video_0FD67509_139C_FED1_41AE_F67E2E99519C_poster_pt.jpg
-videolevel_397840BE_2C90_8513_41C1_51CDBB45FBC1.posterURL = media/video_0FD67509_139C_FED1_41AE_F67E2E99519C_poster_pt.jpg
-videolevel_397850A1_2C90_8531_41BF_15948E004BA1.url = media/video_0FD67509_139C_FED1_41AE_F67E2E99519C_pt.m3u8
-videolevel_397840BE_2C90_8513_41C1_51CDBB45FBC1.url = media/video_0FD67509_139C_FED1_41AE_F67E2E99519C_pt.mp4
+videores_16666384_319F_AB7E_41B6_052822221A4B.posterURL = media/media_146032E0_0F8D_D930_4178_D1E442619C00_poster_pt.jpg
+videores_19A6EC84_319F_7D7E_41C0_9BCA64D52F36.posterURL = media/media_146032E0_0F8D_D930_4178_D1E442619C00_poster_pt.jpg
+videores_19A6EC84_319F_7D7E_41C0_9BCA64D52F36.url = media/media_146032E0_0F8D_D930_4178_D1E442619C00_pt.m3u8
+videores_16666384_319F_AB7E_41B6_052822221A4B.url = media/media_146032E0_0F8D_D930_4178_D1E442619C00_pt.mp4
+videolevel_183D38A2_3182_A6BA_41BE_6F2FD7CC90EF.posterURL = media/video_0FD67509_139C_FED1_41AE_F67E2E99519C_poster_pt.jpg
+videolevel_167C54AE_319F_AE8A_41C5_45FFD20C9D6A.posterURL = media/video_0FD67509_139C_FED1_41AE_F67E2E99519C_poster_pt.jpg
+videolevel_167C54AE_319F_AE8A_41C5_45FFD20C9D6A.url = media/video_0FD67509_139C_FED1_41AE_F67E2E99519C_pt.m3u8
+videolevel_183D38A2_3182_A6BA_41BE_6F2FD7CC90EF.url = media/video_0FD67509_139C_FED1_41AE_F67E2E99519C_pt.mp4
 
 ### Video Subtitles
 
